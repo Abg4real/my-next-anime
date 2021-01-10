@@ -1,70 +1,36 @@
-# Getting Started with Create React App
+# My Next Anime
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a web application for anime fans to discover new animes, add them to favorites, comment on them and many such features. It is intended towards new anime fans who want to explore more about the vast anime world.
 
-## Available Scripts
+Over the time, I have grown fond of japanese anime shows and movies. But recently, I faced an issue of not being able to discover new anime in an easy way. So I have decided to create a web application specifically for this purpose.
 
-In the project directory, you can run:
+The main aim of the application is to let users search for various animes, create a favorites list, like or unlike, give reviews and take part in discussions regarding the anime. The anime information will be obtained by Jikan mo API, which is an unofficial MAL API.
 
-### `yarn start`
+The features of this project are:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. Create a profile and customize it
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. Search for anime with sorting and filtering options
 
-### `yarn test`
+3. View information about anime
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4. Like or unlike
 
-### `yarn build`
+5. Give reviews and take part in discussions
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. Create a watchlist
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Tech Stack to be used:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/Abg4real/my-next-anime) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Abg4real/my-next-anime)
+ReactJS frontend framework
+ExpressJS backend framework
+MongoDB database with Mongoose ARM
+Various NPM packages like react-router-dom, fontawesome, etc.
 
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Timeline
+(Beginning from 11th Jan)
+Week 1: UI design and initial development
+Week 2: Complete UI development, routing of pages and configuration of Jikan API
+Week 3: mongoDB data connection and User authentication
+Week 4: OAuth and testing
