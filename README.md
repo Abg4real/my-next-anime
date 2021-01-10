@@ -6,7 +6,7 @@ Over the time, I have grown fond of japanese anime shows and movies. But recentl
 
 The main aim of the application is to let users search for various animes, create a favorites list, like or unlike, give reviews and take part in discussions regarding the anime. The anime information will be obtained by Jikan mo API, which is an unofficial MAL API.
 
-The features of this project are:
+#### The features of this project are:
 
 1. Create a profile and customize it
 
@@ -20,7 +20,7 @@ The features of this project are:
 
 6. Create a watchlist
 
-Tech Stack to be used:
+#### Tech Stack to be used:
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/Abg4real/my-next-anime) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Abg4real/my-next-anime)
 
@@ -29,9 +29,11 @@ Tech Stack to be used:
 - MongoDB database with Mongoose ARM
 - Various NPM packages like react-router-dom, fontawesome, etc.
 
-Timeline
+#### Timeline
+
 (Beginning from 11th Jan)
-Week 1: UI design and initial development
-Week 2: Complete UI development, routing of pages and configuration of Jikan API
-Week 3: mongoDB data connection and User authentication
-Week 4: OAuth and testing
+
+- Week 1: UI design and initial development
+- Week 2: Complete UI development, routing of pages and configuration of Jikan API
+- Week 3: mongoDB data connection and User authentication
+- Week 4: OAuth and testing
