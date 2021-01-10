@@ -20,7 +20,7 @@ The main aim of the application is to let users search for various animes, creat
 
 6. Create a watchlist
 
-#### Tech Stack to be used:
+### Tech Stack to be used:
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/Abg4real/my-next-anime) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Abg4real/my-next-anime)
 
@@ -29,7 +29,7 @@ The main aim of the application is to let users search for various animes, creat
 - MongoDB database with Mongoose ARM
 - Various NPM packages like react-router-dom, fontawesome, etc.
 
-#### Timeline
+### Timeline
 
 (Beginning from 11th Jan)
 
