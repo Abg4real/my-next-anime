@@ -23,10 +23,11 @@ The features of this project are:
 Tech Stack to be used:
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/Abg4real/my-next-anime) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Abg4real/my-next-anime)
-ReactJS frontend framework
-ExpressJS backend framework
-MongoDB database with Mongoose ARM
-Various NPM packages like react-router-dom, fontawesome, etc.
+
+- ReactJS frontend framework
+- ExpressJS backend framework
+- MongoDB database with Mongoose ARM
+- Various NPM packages like react-router-dom, fontawesome, etc.
 
 Timeline
 (Beginning from 11th Jan)
