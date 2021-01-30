@@ -6,7 +6,7 @@ Over the time, I have grown fond of japanese anime shows and movies. But recentl
 
 The main aim of the application is to let users search for various animes, create a favorites list, like or unlike, give reviews and take part in discussions regarding the anime. The anime information will be obtained by Jikan mo API, which is an unofficial MAL API.
 
-#### The features of this project are:
+### The features of this project are:
 
 1. Create a profile and customize it
 
