@@ -4,7 +4,14 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 export default function Loading() {
   return (
-    <div className="loading">
+    <div
+      className="loading"
+      style={{
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+      }}
+    >
       <FontAwesomeIcon
         icon={faSpinner}
         size="3x"
